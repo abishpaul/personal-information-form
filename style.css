@@ -1,6 +1,7 @@
-body{
+body {
     font-family: sans-serif;
 }
+
 .vl {
     border-left: 4px solid rgb(187, 189, 187);
     height: 500px;
@@ -15,7 +16,7 @@ h2 {
 .hl {
     margin-top: -18px;
     margin-left: 30px;
-    width:50%;
+    width: 50%;
     height: 4px;
     background-color: rgb(187, 189, 187);
     border: none;
@@ -24,8 +25,56 @@ h2 {
 
 
 
+.desc {
+    
+    margin-left: 30px;
+    
+}
 
+.fn {
+    margin-top:-4px ;
+    margin-right:200px;
+    width: 70%;
+    float: right;
+   
 
+}
 
+.em {
+    margin-top:17px ;
+    margin-right:200px;
+    width: 70%;
+    float: right;
+    
+}
 
+.te {
+    margin-top:17px ;
+    margin-top:17px ;
+    float: right;
+    margin-right:-100px;
+}
 
+.select {
+   margin-top:17px ;
+    margin-right:200px;
+    width: 70%;
+    float: right;
+
+}
+
+.fs {
+    margin-top:17px ;
+    margin-right:200px;
+    width: 70%;
+    float: right;
+
+}
+
+#saveForm{
+    margin-top:192px ;
+    margin-right:-100px;
+    width: 100px;
+        float: right;
+      
+}
